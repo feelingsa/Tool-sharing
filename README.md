@@ -1,6 +1,3 @@
-# Tool-sharing
-Tool &amp; Website sharing
-
 **小工具大全**
 
 --------------------------------
@@ -42,7 +39,7 @@ Tool &amp; Website sharing
   - [渐变色](https://mycolor.space/)
   - [多色渐变](https://www.grabient.com/)
 - 润色三件套
-  - [Grammarly](「GrammarlyInstaller.cAksc...snvl71surl8n0oo0.exe」https://www.aliyundrive.com/s/553GCuvMi7k 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。)
+  - [Grammarly](https://www.grammarly.com/ )
   - [White Smoke](http://dobeccx.cn/yun/index.php?share/file&user=102&sid=JZqDvxBT)
   - [Style Writer](http://dobeccx.cn/yun/index.php?share/file&user=102&sid=ngyQsXTU)(巨难用)   
 - [Math Type](http://dobeccx.cn/yun/index.php?share/file&user=102&sid=WI9qz65N)
