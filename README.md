@@ -44,7 +44,7 @@
   - [Style Writer](http://dobeccx.cn/yun/index.php?share/file&user=102&sid=ngyQsXTU)(巨难用)   
 - [Math Type](http://dobeccx.cn/yun/index.php?share/file&user=102&sid=WI9qz65N)
 - [伪代码](http://dobeccx.cn/yun/index.php?share/file&user=102&sid=hWvKN2CQ)
-- [LaTex数学符号公式大全](http://www.letpub.com.cn/index.php?page=journalapp&view=search)
+- [LaTex数学符号公式大全](https://zhenkai.blog.csdn.net/article/details/88621318?utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1.no_search_link&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~default-1.no_search_link)
 
 
 
