@@ -17,6 +17,10 @@
 
 - [找文章代码—Paper With Code](https://paperswithcode.com/)
 
+**神经网络3D可视化**
+
+- **Zetane:**    [安装包](https://zetane.com/download)    [官方文档](https://docs.zetane.com/)     [模型库](https://zetane.com/gallery)    [教程](bilibili.com/video/av338277558/?vd_source=131bd090c855bc8e8ae1e30d2ddb8ab2)
+
 **文献管理工具**
 
 - **Zotero：**[安装教程](https://www.bilibili.com/video/BV1ZE411p7qT?spm_id_from=333.999.0.0&vd_source=131bd090c855bc8e8ae1e30d2ddb8ab2)    [安装包&插件](http://dobeccx.cn/yun/index.php?share/file&user=102&sid=cQCUye25)  [坚果云同步](https://sspai.com/post/64283)
